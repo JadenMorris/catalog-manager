@@ -1,0 +1,19 @@
+{
+	"auth":"",
+	"owners":[],
+	"general":{
+		"guild":"604636579545219072"
+	},
+    "mysql": {
+        "host": "localhost",
+        "user": "",
+        "password": "",
+        "database": "",
+        "charset": "utf8mb4"
+    },
+    "web":{
+        "redirect":"https://catalogserverov.xyz/oauth2",
+        "client_secret":""
+    },
+    "union":[]
+}
